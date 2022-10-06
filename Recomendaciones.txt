@@ -1,0 +1,20 @@
+El programa es un software en linea
+
+1) El sistema despliega una máscara donde debe ingresarse la contraseña. La misma puede ser entre 4 y 8 caracteres alfabéticos, numéricos o alfanuméricos.
+Una vez ingresado se oprime ENTER.
+
+2) Para cambiar la contraseña, los pasos son los mismos: ingreso del ID personal, luego el
+password vigente, pero en lugar de dar ENTER, se tabula con la tecla TAB hasta el casillero
+que dice New Password. En dicho casillero se ingresa el nuevo y ahí se oprime la tecla
+ENTER.
+3. Despliegue de áreas de registros o ventanas de pasajes 
+El sistema cuenta con multiples áreas crípticas y  gráficas a. Al ingresarse por primera vez se accede al área 1. Para
+acceder al resto de las áreas de trabajo se ejecuta el comando:
+
+4)
+Operadores o Agencias de Viajes
+También existen tres formas diferentes para el uso de codificación y decodificación de las
+agencias de viajes u operadores, ellas son:
+
+5) registrar conductor
+
